@@ -1,4 +1,4 @@
-# Plant_Recommender
+# Plant_Recommender (Plantwise)
 A streamlit app that uses the USDA plants database to recommend plants to users through K-Nearest-Neighbors
 
 Note that data is sourced from the USDA PLANTS website: https://plants.usda.gov
